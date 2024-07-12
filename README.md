@@ -1,5 +1,4 @@
-# Boas vindas ao repositório do projeto Trybesmith
-# Trybesmith
+# ⚔ Boas vindas ao repositório do projeto Trybesmith ⚔
 Este projeto é um banco de dados backend desenvolvido em TypeScript para cadastrar e gerenciar armas de universos de fantasia que fiz na Trybe.
 
 ## Pré-requisitos
